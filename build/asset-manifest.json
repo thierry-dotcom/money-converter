@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/moneyConverter/static/css/main.12eba6fc.chunk.css",
+    "main.js": "/moneyConverter/static/js/main.00632445.chunk.js",
+    "main.js.map": "/moneyConverter/static/js/main.00632445.chunk.js.map",
+    "runtime-main.js": "/moneyConverter/static/js/runtime-main.e784f2f1.js",
+    "runtime-main.js.map": "/moneyConverter/static/js/runtime-main.e784f2f1.js.map",
+    "static/js/2.08af8ea0.chunk.js": "/moneyConverter/static/js/2.08af8ea0.chunk.js",
+    "static/js/2.08af8ea0.chunk.js.map": "/moneyConverter/static/js/2.08af8ea0.chunk.js.map",
+    "index.html": "/moneyConverter/index.html",
+    "precache-manifest.81860f484e48147ad4a85b2700cc3a33.js": "/moneyConverter/precache-manifest.81860f484e48147ad4a85b2700cc3a33.js",
+    "service-worker.js": "/moneyConverter/service-worker.js",
+    "static/css/main.12eba6fc.chunk.css.map": "/moneyConverter/static/css/main.12eba6fc.chunk.css.map",
+    "static/media/styles.css": "/moneyConverter/static/media/Money.5530d56d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e784f2f1.js",
+    "static/js/2.08af8ea0.chunk.js",
+    "static/css/main.12eba6fc.chunk.css",
+    "static/js/main.00632445.chunk.js"
+  ]
+}
